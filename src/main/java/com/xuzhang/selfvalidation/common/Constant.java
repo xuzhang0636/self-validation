@@ -1,4 +1,4 @@
-package com.xuzhang.selfvalidation.util;
+package com.xuzhang.selfvalidation.common;
 
 /**
  * Created by Robert 2020/2/5

@@ -1,7 +1,7 @@
 package com.xuzhang.selfvalidation.service;
 
 import com.xuzhang.selfvalidation.Model.Person;
-import com.xuzhang.selfvalidation.util.Constant;
+import com.xuzhang.selfvalidation.common.Constant;
 import org.springframework.stereotype.Component;
 
 /**
