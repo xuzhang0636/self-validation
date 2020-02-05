@@ -1,6 +1,6 @@
 package com.xuzhang.selfvalidation.Model;
 
-import com.xuzhang.selfvalidation.util.Constant;
+import com.xuzhang.selfvalidation.common.Constant;
 import com.xuzhang.selfvalidation.validation.PersonNameNotMe;
 import lombok.AllArgsConstructor;
 import lombok.Data;
