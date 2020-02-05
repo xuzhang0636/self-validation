@@ -1,6 +1,7 @@
 package com.xuzhang.selfvalidation.service;
 
 import com.xuzhang.selfvalidation.Model.Person;
+import com.xuzhang.selfvalidation.util.Constant;
 import org.springframework.stereotype.Component;
 
 /**
@@ -15,6 +16,6 @@ public class PersonServiceImpl implements PersonService {
 
     @Override
     public boolean checkPersonNameIsMe(String personName) {
-        return "me".equals(personName);
+        return Constant.ME.equals(personName);
     }
 }
